@@ -1,5 +1,7 @@
-# snake
-This is the code from my video demonstrations of Object-Oriented Programming (OOP) principles in C++.
+# The Snake Game
+This repo contains the solution code from my video demonstrations of Object-Oriented Programming (OOP) principles in C++.
+
+It is built from a series of coding exercises called "Brain Blasts".
 
 # Tower Brain-Blast
 
@@ -104,7 +106,7 @@ Output:
 Now that you have the Tower class, you will be working on the 
 object-oriented design of your own kind of game that utilizes it.
 
-I chose to do demonstrate how
+I chose to demonstrate how
 to begin designing a snake game. You may choose any kind of game you
 want that can exist in a simple grid system, using these videos as
 inspiration for your own process.
