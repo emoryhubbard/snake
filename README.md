@@ -9,7 +9,7 @@ is next--the world for a game.
 A Board is just a bunch of columns
 (or "towers") put together:
 
-  Tower		Board
+	Tower		Board
 	a	->	a a a a
 	a	->	a a a a
 	a	->	a a a a
