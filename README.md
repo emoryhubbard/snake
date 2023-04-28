@@ -40,10 +40,6 @@ Output:
 Input:
 	(nothing)
 
-
-
-//***************************
-
 How to make a class with functions and a
 constructor (if you choose to use a constructor):
 
