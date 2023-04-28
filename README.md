@@ -47,24 +47,24 @@ Input:
 How to make a class with functions and a
 constructor (if you choose to use a constructor):
 
-int main() {
-	class Person {
-	public:
-		string firstName;
-		
-		Person(string firstName) {
-			this->firstName = firstName;
-		}
-		void printName() {
-			cout << firstName;
-		}
-	};
-	
-	Person p = Person("Joe");
-	p.printName();
-		
-	return 0;
-}
+	int main() {
+		class Person {
+		public:
+			string firstName;
+
+			Person(string firstName) {
+				this->firstName = firstName;
+			}
+			void printName() {
+				cout << firstName;
+			}
+		};
+
+		Person p = Person("Joe");
+		p.printName();
+
+		return 0;
+	}
 
 # Random Access Tower
 
