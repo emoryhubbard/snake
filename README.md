@@ -86,18 +86,18 @@ somewhere in the Tower.
 Then, print the Tower.
 
 Output:
-a
-a
-e
-m
-o
-r
-y
-a
-a
-a
-a
-a
+	a
+	a
+	e
+	m
+	o
+	r
+	y
+	a
+	a
+	a
+	a
+	a
 
 # Board Brain Blast
 
@@ -119,10 +119,10 @@ In the end, you should have a Board class (called Grid
 in the videos) that can be printed to the screen.
 
 Output:
-a a a a a a a
-a a a a a a a
-a a a a a a a
-a a a a a a a
+	a a a a a a a
+	a a a a a a a
+	a a a a a a a
+	a a a a a a a
 
 # Set Letter Brain Blast
 
@@ -152,9 +152,9 @@ Now you have your editable game world! In the next
 Brain Blast, we will be making a full game.
 
 Output:
-e a a a a a
-a m a a a a
-a a o a a a
-a a a r a a
-a a a a y a
+	e a a a a a
+	a m a a a a
+	a a o a a a
+	a a a r a a
+	a a a a y a
 
