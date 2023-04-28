@@ -32,12 +32,14 @@ Finally, make a function that prints the tower,
 eg. myTower.print():
 
 Output:
+
 	a
 	a
 	a
 	a
 	
 Input:
+
 	(nothing)
 
 How to make a class with functions and a
@@ -82,6 +84,7 @@ somewhere in the Tower.
 Then, print the Tower.
 
 Output:
+
 	a
 	a
 	e
@@ -115,6 +118,7 @@ In the end, you should have a Board class (called Grid
 in the videos) that can be printed to the screen.
 
 Output:
+
 	a a a a a a a
 	a a a a a a a
 	a a a a a a a
@@ -148,6 +152,7 @@ Now you have your editable game world! In the next
 Brain Blast, we will be making a full game.
 
 Output:
+	
 	e a a a a a
 	a m a a a a
 	a a o a a a
