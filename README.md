@@ -69,6 +69,7 @@ constructor (if you choose to use a constructor):
 Watch this video first to see how to add an
 element to any position (or index) in a vector:
 
+## Random Access Tower Video
 https://1drv.ms/v/s!Am9kRqsUWAaThZVrLZ7O_53YzORBWA?e=3h8ug1
 
 Then, make a function for the Tower class that can
@@ -108,10 +109,10 @@ to begin designing a snake game. You may choose any kind of game you
 want that can exist in a simple grid system, using these videos as
 inspiration for your own process.
 
-# OOP Demo Video Part 1
+## OOP Demo Video Part 1
 <a href="https://1drv.ms/v/s!Am9kRqsUWAaThZZHxItA6S_jW6hJrw?e=aJsTwg">https://1drv.ms/v/s!Am9kRqsUWAaThZZHxItA6S_jW6hJrw?e=aJsTwg<a>
 
-# OOP Demo Video Part 2
+## OOP Demo Video Part 2
 <a href="https://1drv.ms/v/s!Am9kRqsUWAaThZZIgLlPdE1a4z8u-g?e=W0kRC8">https://1drv.ms/v/s!Am9kRqsUWAaThZZIgLlPdE1a4z8u-g?e=W0kRC8<a>
 
 In the end, you should have a Board class (called Grid
@@ -129,8 +130,10 @@ Output:
 Watch these 2 videos first to see how to add an
 letter to any position in the Board.
 
+## Set Letter Video Part 1
 https://1drv.ms/v/s!Am9kRqsUWAaThZcVHn9zs4-VCTQKxA?e=gco3gc
 
+## Set Letter Video Part 2
 https://1drv.ms/v/s!Am9kRqsUWAaThZcdN8ucN15G5MxZjw?e=Wc9eKV
 
 Then, make a function for the Board class (called Grid
@@ -140,6 +143,7 @@ eg. setLetter(1, 1, "M").
 Work on this function for about 10 minutes or so.
 Then watch this solution video if you need to:
 
+## Set Letter Video Part 3 -- The Solution
 https://1drv.ms/v/s!Am9kRqsUWAaThZcjY5eDg0r5MFIERg?e=fhxA0n
 
 Then, test it! Use your new setLetter() function to
